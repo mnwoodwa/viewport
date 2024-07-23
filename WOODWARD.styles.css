@@ -1,7 +1,7 @@
 /* MEREDITH WOODWARD */
 
 /* --------------- ADD CSS RESET TO THE FILE HERE --------------- */
-html, body, header, main, footer, h1, h2, h3, p, section, span, picture, img {
+/*html, body, header, main, footer, h1, h2, h3, p, section, span, picture, img {
 
 }
 
@@ -268,7 +268,7 @@ img{
     img{
         width: 300px;
         max-width: 300px;
-    }*/
+    }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
 
